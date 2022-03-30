@@ -1,0 +1,22 @@
+body {
+  background-color: #432918; 
+}
+
+h1 {
+  font-family: 'Goovy Modice';
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: 'Goovy Modice';
+  font-size: 20px;
+  text-align: center;
+  color: beige;
+}
+
+@font-face {
+  font-family: 'Goovy Modice';
+  src: url(../fonts/Goovy\ Modice.woff2);
+}
