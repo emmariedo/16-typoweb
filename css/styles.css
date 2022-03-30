@@ -20,3 +20,11 @@ p {
   font-family: 'Goovy Modice';
   src: url(../fonts/Goovy\ Modice.woff2);
 }
+
+h2 {
+  font-family: 'Goovy Modice';
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+
